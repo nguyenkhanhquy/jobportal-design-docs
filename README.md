@@ -27,6 +27,21 @@
 6. Actors nhập mã và nhấn “Xác nhận”
 7. Hệ thống chuyển hướng người dùng đến trang đăng nhập
 
+## Technology Stack
+
+### Frontend
+
+* React Native
+* Flutter
+
+### Backend
+
+* Programming Language: Java
+* Frameworks/Libraries: Spring Framework, Spring Boot, Spring Data JPA, Hibernate
+* Database: MongoDB
+* Deployment: Heroku
+* Cloud Storage: AWS S3
+
 ## Contributors
 
 1. [@nguyenkhanhquy](https://github.com/nguyenkhanhquy) - Nguyễn Khánh Quy - 21110282

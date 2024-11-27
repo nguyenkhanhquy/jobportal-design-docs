@@ -2,7 +2,17 @@
 
 ## Use Case Diagram
 
+![Khach](./asset/Khach.png)
+
+![UngVien](/asset/UngVien.png)
+
+![NhaTuyenDung](/asset/NhaTuyenDung.png)
+
+![QuanTriVien](/asset/QuanTriVien.png)
+
 ## Class Diagram
+
+![ClassDiagram](/asset/ClassDiagram.png)
 
 ## Use Case Description
 
